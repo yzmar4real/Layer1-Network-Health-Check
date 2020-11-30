@@ -27,7 +27,8 @@ The script is written in python using parsers from the genie library to convert 
 
 ## Prerequisites 
 
-
+PYATS
+Python3.6 and above
 
 ## Installation
 
@@ -39,10 +40,3 @@ The script is written in python using parsers from the genie library to convert 
 
 4. From the root directory, run the Python script with `python Master.py`
 
-
-## Code of Conduct
-Our code of conduct is available [here](./CODE_OF_CONDUCT.md).
-
-
-## Contributing
-See our contributing guidelines [here](./CONTRIBUTING.md).
