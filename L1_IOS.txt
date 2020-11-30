@@ -1,0 +1,199 @@
+Health Check Execution time is  [2020-11-30 09:20]
+IOS device: [Device 0700-I11-SWITC-002, type ios]  INTERFACES STATUS EXCEPTIONS: 
+ 
+GigabitEthernet1/0/1  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/2  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/3  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/4  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/5  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/6  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/7  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/8  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/9  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/10  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/11  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/12  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/13  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/14  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/15  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/16  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/17  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/18  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/19  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/20  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/21  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/22  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/23  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/0/24  status is notconnect ,duplex is auto , speed is  auto 
+GigabitEthernet1/1/1  status is disabled ,duplex is auto , speed is  auto 
+GigabitEthernet1/1/2  status is disabled ,duplex is auto , speed is  auto 
+GigabitEthernet1/1/3  status is disabled ,duplex is auto , speed is  auto 
+GigabitEthernet1/1/4  status is disabled ,duplex is auto , speed is  auto 
+TenGigabitEthernet1/1/1  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/2  status is notconnect ,duplex is full , speed is  10G 
+Port-channel1  status is connected ,duplex is a-full , speed is  10G 
+FastEthernet0  status is disabled ,duplex is auto , speed is  auto 
+
+IOS device: [Device 0700-I11-SWITC-002, type ios] ETHERCHANNEL ISSUES: 
+On  Port-channel1  Interface TenGigabitEthernet1/1/1 has flags  P 
+
+IOS device: [Device 0700-I11-SWITC-002, type ios] ERROR COUNTERS: 
+Vlan1  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan333  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan3026  has  0 input errors, 0 CRC errors, 0 Output errors 
+FastEthernet0  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/1  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/2  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/3  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/4  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/5  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/6  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/7  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/8  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/9  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/10  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/11  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/12  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/13  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/14  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/15  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/16  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/17  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/18  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/19  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/20  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/21  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/22  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/23  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/0/24  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/1/1  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/1/2  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/1/3  has  0 input errors, 0 CRC errors, 0 Output errors 
+GigabitEthernet1/1/4  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/1  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/2  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel1  has  0 input errors, 0 CRC errors, 0 Output errors 
+Loopback0  has  0 input errors, 0 CRC errors, 0 Output errors 
+IOS device: [Device ADNOCSG-AAT-CAMAGG01, type iosxe]  INTERFACES STATUS EXCEPTIONS: 
+ 
+TenGigabitEthernet1/1/1  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/2  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/3  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/4  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/5  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/6  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/7  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/8  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/9  status is connected ,duplex is full , speed is  a-1000 
+TenGigabitEthernet1/1/10  status is disabled ,duplex is full , speed is  auto 
+TenGigabitEthernet1/1/11  status is connected ,duplex is full , speed is  a-1000 
+TenGigabitEthernet1/1/12  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet1/1/13  status is disabled ,duplex is full , speed is  auto 
+TenGigabitEthernet1/1/14  status is disabled ,duplex is full , speed is  auto 
+TenGigabitEthernet1/1/15  status is disabled ,duplex is full , speed is  auto 
+TenGigabitEthernet1/1/16  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/1  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/2  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/3  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/4  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/5  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/6  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/7  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/8  status is connected ,duplex is full , speed is  10G 
+TenGigabitEthernet2/1/9  status is connected ,duplex is full , speed is  a-1000 
+TenGigabitEthernet2/1/10  status is notconnect ,duplex is full , speed is  auto 
+TenGigabitEthernet2/1/11  status is notconnect ,duplex is full , speed is  auto 
+TenGigabitEthernet2/1/12  status is notconnect ,duplex is full , speed is  auto 
+TenGigabitEthernet2/1/13  status is disabled ,duplex is full , speed is  auto 
+TenGigabitEthernet2/1/14  status is disabled ,duplex is full , speed is  auto 
+TenGigabitEthernet2/1/15  status is disabled ,duplex is full , speed is  auto 
+TenGigabitEthernet2/1/16  status is connected ,duplex is full , speed is  10G 
+Port-channel1  status is connected ,duplex is a-full , speed is  10G 
+Port-channel2  status is connected ,duplex is a-full , speed is  10G 
+Port-channel11  status is connected ,duplex is a-full , speed is  10G 
+Port-channel12  status is connected ,duplex is a-full , speed is  10G 
+Port-channel13  status is connected ,duplex is a-full , speed is  10G 
+Port-channel14  status is connected ,duplex is a-full , speed is  10G 
+Port-channel15  status is connected ,duplex is a-full , speed is  10G 
+Port-channel16  status is connected ,duplex is a-full , speed is  10G 
+Port-channel17  status is connected ,duplex is a-full , speed is  10G 
+Port-channel18  status is connected ,duplex is a-full , speed is  10G 
+
+IOS device: [Device ADNOCSG-AAT-CAMAGG01, type iosxe] ETHERCHANNEL ISSUES: 
+On  Port-channel1  Interface TenGigabitEthernet1/1/16 has flags  P 
+On  Port-channel2  Interface TenGigabitEthernet2/1/16 has flags  P 
+On  Port-channel11  Interface TenGigabitEthernet1/1/1 has flags  P 
+On  Port-channel11  Interface TenGigabitEthernet2/1/1 has flags  P 
+On  Port-channel12  Interface TenGigabitEthernet1/1/2 has flags  P 
+On  Port-channel12  Interface TenGigabitEthernet2/1/2 has flags  P 
+On  Port-channel13  Interface TenGigabitEthernet1/1/3 has flags  P 
+On  Port-channel13  Interface TenGigabitEthernet2/1/3 has flags  P 
+On  Port-channel14  Interface TenGigabitEthernet1/1/4 has flags  P 
+On  Port-channel14  Interface TenGigabitEthernet2/1/4 has flags  P 
+On  Port-channel15  Interface TenGigabitEthernet1/1/5 has flags  P 
+On  Port-channel15  Interface TenGigabitEthernet2/1/5 has flags  P 
+On  Port-channel16  Interface TenGigabitEthernet1/1/6 has flags  P 
+On  Port-channel16  Interface TenGigabitEthernet2/1/6 has flags  P 
+On  Port-channel17  Interface TenGigabitEthernet1/1/7 has flags  P 
+On  Port-channel17  Interface TenGigabitEthernet2/1/7 has flags  P 
+On  Port-channel18  Interface TenGigabitEthernet1/1/8 has flags  P 
+On  Port-channel18  Interface TenGigabitEthernet2/1/8 has flags  P 
+
+IOS device: [Device ADNOCSG-AAT-CAMAGG01, type iosxe] ERROR COUNTERS: 
+FastEthernet1  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/1  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/2  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/3  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/4  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/5  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/6  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/7  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/8  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/9  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/10  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/11  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/12  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/13  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/14  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/15  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet1/1/16  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/1  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/2  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/3  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/4  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/5  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/6  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/7  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/8  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/9  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/10  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/11  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/12  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/13  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/14  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/15  has  0 input errors, 0 CRC errors, 0 Output errors 
+TenGigabitEthernet2/1/16  has  0 input errors, 0 CRC errors, 0 Output errors 
+Loopback0  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel1  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel2  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel11  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel12  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel13  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel14  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel15  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel16  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel17  has  0 input errors, 0 CRC errors, 0 Output errors 
+Port-channel18  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan1  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan10  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan12  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan36  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan100  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan241  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan603  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan911  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan916  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan917  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan918  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan999  has  0 input errors, 0 CRC errors, 0 Output errors 
+Vlan4000  has  0 input errors, 0 CRC errors, 0 Output errors 
