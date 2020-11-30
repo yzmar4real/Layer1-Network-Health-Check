@@ -16,7 +16,7 @@ The script is written in python using parsers from the genie library to convert 
 
 **Genie** 
 
-**Output**: The results of the CLI commands are stored in simple .txt files: (L1_IOS.txt for IOS and IOSXE , and L1_NXOS for NXOS)
+**Output**: The results of the CLI commands are stored in simple .txt files: (L1_IOS.txt for IOS and IOSXE , and L1_NXOS for NXOS) ![Sample Output](OutputSnapshot-001.jpg)
 
 ## Contacts
 *Oluyemi Oshunkoya (yemi_o@outlook.com)
