@@ -32,11 +32,26 @@ Python3.6 and above
 
 ## Installation
 
-1. Clone this repository with `git clone <this repo>` and navigate to the directory with `cd path/to/repo`.
+1. Clone this repository into your desired directory using the command:
 
-2. (Optional) Create a Python virtual environment for the project and activate it (find instructions [here](https://docs.python.org/3/tutorial/venv.html)).
+git clone https://github.com/yzmar4real/Layer1-Network-Health-Check.git
 
-3. Install genie packages: pip install pyats[full]
+2. CD into the directory 
 
-4. From the root directory, run the Python script with `python Master.py`
+cd Layer1-Network-Health-Check 
+
+3. Use the directory as a virtual environment for the project
+
+python3 -m venv . 
+
+4. Start the virtual environment and install the requirements for the project
+
+source bin/activate
+
+pip install pyats[library]
+pip install genie 
+
+5. Execute the main script from console
+
+python Master.py
 
