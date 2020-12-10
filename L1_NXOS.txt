@@ -1,1 +1,0 @@
-Health Check Execution time is  [2020-11-30 09:20]
