@@ -2,6 +2,8 @@
 
 Python Code that allows Network Engineers to run through their IOS,IOSXE and NXOS infrsatructure for layer 1 issues using pyats libraries.
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/yzmar4real/Layer1_NetworkHealthCheck)
+
 ## Overview
 ![High Level Workflow](Overview.jpg)
 
